@@ -24,6 +24,7 @@ omnitagjs.com
 npttech.com
 mediavine.com
 media.net
+log.cookieyes.com
 ivitrack.com
 ip-access.api.delfi.ee
 id5-sync.com
@@ -52,6 +53,8 @@ clarity.ms
 chartbeat.com
 cdn.cookielaw.org
 cdn.pushwoosh.com
+cdn.zlick.it
+cdn-cookieyes.com
 cdn-eu.piano.io
 c2-eu.piano.io
 casalemedia.com
