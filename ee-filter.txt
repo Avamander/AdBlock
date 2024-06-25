@@ -28,12 +28,7 @@ ip-access.api.delfi.ee
 id5-sync.com
 hotjar.com
 gstatic.com
-googletagmanager.com
-googlesyndication.com
-googleoptimize.com
 google.ee
-google.com
-google-analytics.com
 getsitecontrol.com
 geolocation.onetrust.com
 gemius.pl
