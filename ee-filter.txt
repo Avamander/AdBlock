@@ -59,6 +59,7 @@ js.klevu.com
 klevu.com
 kuurza.com
 log.cookieyes.com
+matomo.ria.ee
 media.net
 mediavine.com
 npttech.com
