@@ -70,6 +70,7 @@ postrelease.com
 pubmatic.com
 pushwoosh.com
 rubiconproject.com
+sentry.aws.delfi.net
 sharethrough.com
 smartadserver.com
 smartlook.cloud
