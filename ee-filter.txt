@@ -78,6 +78,7 @@ smartadserver.com
 smartlook.cloud
 smartlook.com
 static.chartbeat.com
+statistika.rik.ee
 taboola.com
 teads.tv
 tremorhub.com
