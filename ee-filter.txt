@@ -1,3 +1,5 @@
+! Title: Eriti range Eesti saitidele kohandatud filter 
+! Homepage: https://github.com/Avamander/AdBlock
 1rx.io
 360yield.com
 3lift.com
