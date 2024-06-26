@@ -93,3 +93,6 @@ www.googie-anaiytics.com
 www.npttech.com
 yieldlab.net
 yieldmo.com
+cdn.piano.delfi.ee/api/tinypass.min.js
+ekspress.delfi.ee/api/vendors-list-v3
+platform.twitter.com$domain=aripaev.ee
