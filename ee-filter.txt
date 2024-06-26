@@ -97,3 +97,4 @@ cdn.piano.delfi.ee/api/tinypass.min.js
 delfi.ee/api/vendors-list-v3
 delfi.ee/loadPianoSdk.js
 platform.twitter.com$domain=aripaev.ee
+delfi.ee/api/get-server-cookie
