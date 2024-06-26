@@ -18,6 +18,7 @@ cdn-cookieyes.com
 cdn-eu.piano.io
 cdn.cookielaw.org
 cdn.pushwoosh.com
+cdn.ohtuleht.ee/api/tinypass.min.js
 cdn.zlick.it
 chartbeat.com
 clarity.ms
@@ -85,6 +86,8 @@ tremorhub.com
 unrulymedia.com
 vorumaateataja.ee##.cc_banner-wrapper
 vx.piano.delfi.ee
+vx.ohtuleht.ee/checkout/offer/getFraudPreventionConfig
+vx.ohtuleht.ee/checkout/offer/trackShow
 www.clarity.ms
 www.googie-anaiytics.com
 www.npttech.com
