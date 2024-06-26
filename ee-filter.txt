@@ -27,6 +27,7 @@ connect.facebook.net$domain=foorum.hinnavaatlus.ee
 connect.facebook.net$domain=kuldnebors.ee
 connect.facebook.net$domain=soov.ee
 connect.facebook.net$domain=sudameapteek.ee
+connect.find.fashion
 consent.cookiebot.com$domain=kaubamaja.ee
 criteo.com
 criteo.net
