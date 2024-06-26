@@ -94,6 +94,6 @@ www.npttech.com
 yieldlab.net
 yieldmo.com
 cdn.piano.delfi.ee/api/tinypass.min.js
-delfi.ee/api/vendors-list-v3?lang=et
+delfi.ee/api/vendors-list-v3
 delfi.ee/loadPianoSdk.js
 platform.twitter.com$domain=aripaev.ee
