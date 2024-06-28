@@ -51,7 +51,6 @@ geolocation.onetrust.com
 getsitecontrol.com
 googie-anaiytics.com
 google.ee
-gstatic.com
 hotjar.com
 id5-sync.com
 ip-access.api.delfi.ee
