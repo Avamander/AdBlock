@@ -97,3 +97,4 @@ delfi.ee/api/vendors-list-v3
 delfi.ee/loadPianoSdk.js
 platform.twitter.com$domain=aripaev.ee
 delfi.ee/api/get-server-cookie
+kinnisvara24.ee/stat
