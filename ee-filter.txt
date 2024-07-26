@@ -71,6 +71,7 @@ piano.io
 postrelease.com
 pubmatic.com
 pushwoosh.com
+platform.twitter.com$domain=aripaev.ee
 rubiconproject.com
 sentry.aws.delfi.net
 sharethrough.com
@@ -94,7 +95,8 @@ yieldlab.net
 yieldmo.com
 cdn.piano.delfi.ee/api/tinypass.min.js
 delfi.ee/api/vendors-list-v3
-delfi.ee/loadPianoSdk.js
-platform.twitter.com$domain=aripaev.ee
 delfi.ee/api/get-server-cookie
+delfi.ee/scms/?g=afp.js
+delfi.ee/loadPianoSdk.js
+delfi.ee##.alert--error.alert:has-text(et kasutate reklaamiblokeerijat)
 kinnisvara24.ee/stat
