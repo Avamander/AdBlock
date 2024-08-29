@@ -50,7 +50,6 @@ gemius.pl
 geolocation.onetrust.com
 getsitecontrol.com
 googie-anaiytics.com
-google.ee
 hotjar.com
 id5-sync.com
 ip-access.api.delfi.ee
