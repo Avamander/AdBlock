@@ -105,3 +105,12 @@ err.ee##body:style(overflow:auto !important)
 litix.io$domain=err.ee
 google.com$domain=err.ee
 kinnisvara24.ee/stat
+k5a.io
+c2.piano.delfi.ee
+vx.piano.delfi.ee
+g.delfi.ee
+sisuturundus.pmo.ee
+andy.postimees.ee
+postimees.ee/tinypass.js
+postimees.ee/pushwoosh-service-worker.js
+gstatic.com$domain=postimees.ee
