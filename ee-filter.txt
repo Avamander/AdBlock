@@ -98,5 +98,10 @@ delfi.ee/api/get-server-cookie
 delfi.ee/scms/?g=afp.js
 delfi.ee/loadPianoSdk.js
 delfi.ee##.alert--error.alert:has-text(et kasutate reklaamiblokeerijat)
-s.err.ee/min/0b7e1a12abd610ae7c4dcd46a58a858c.js
+err.ee##.modal-backdrop
+err.ee##.in.fade.modal-backdrop
+err.ee##.in.ng-isolate-scope.fade.modal:has-text(Küpsiste kasutamine ERR-i veebisaitidel)
+err.ee##body:style(overflow:auto !important)
+litix.io$domain=err.ee
+google.com$domain=err.ee
 kinnisvara24.ee/stat
