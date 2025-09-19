@@ -98,4 +98,5 @@ delfi.ee/api/get-server-cookie
 delfi.ee/scms/?g=afp.js
 delfi.ee/loadPianoSdk.js
 delfi.ee##.alert--error.alert:has-text(et kasutate reklaamiblokeerijat)
+s.err.ee/min/0b7e1a12abd610ae7c4dcd46a58a858c.js
 kinnisvara24.ee/stat
